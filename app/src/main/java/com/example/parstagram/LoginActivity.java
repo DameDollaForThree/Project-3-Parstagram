@@ -69,7 +69,7 @@ public class LoginActivity extends AppCompatActivity {
                     Toast.makeText(LoginActivity.this, "Success!", Toast.LENGTH_SHORT).show();
                 } else {
                     Log.e(TAG, "issue with signup", e);
-                    Toast.makeText(LoginActivity.this, "Issue with login!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(LoginActivity.this, "Account already exists!", Toast.LENGTH_SHORT).show();
                     return;
                 }
             }
