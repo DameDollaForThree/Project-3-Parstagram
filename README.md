@@ -41,6 +41,10 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [Kap](https://getkap.co/).
 
+## Notes
+
+- None
+
 ---
 
 ## Parstagram Part 1
